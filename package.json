@@ -1,0 +1,10 @@
+{
+  "name": "node-thread-factorial-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "cli-progress": "^3.11.2",
+    "inquirer": "^9.1.2",
+    "moment": "^2.29.4"
+  }
+}
